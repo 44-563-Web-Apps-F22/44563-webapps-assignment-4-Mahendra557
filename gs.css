@@ -65,3 +65,28 @@ color: black;
     background-color: black;
     color:yellowgreen;
 }
+table,
+
+td,
+
+th {
+
+    border: inset 2px;
+
+    color: blue;
+
+    text-align: center;
+
+    padding: 1em;
+
+    margin: 2px;
+
+}
+
+
+
+tr:nth-child(odd) {
+
+    background-color: rgb(116, 237, 184);
+
+}
